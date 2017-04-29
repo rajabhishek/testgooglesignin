@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371885874478",
+    "project_id": "rajab-12345"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371885874478:android:aa9826b6e5dcdcc4",
+        "android_client_info": {
+          "package_name": "com.example.android.mygooglesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371885874478-n29rtp0k4m323r6v6g2r30hsf29t8d2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.mygooglesign",
+            "certificate_hash": "7078614b18d832481556961b75521ebbaa365bee"
+          }
+        },
+        {
+          "client_id": "371885874478-a5id3m2pheif0jmq328kjsc34g71hf9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjuLk0oPZuPP9ND46GAPj7oXPpRQIYSPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
